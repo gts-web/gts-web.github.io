@@ -17,6 +17,9 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 
+---
+layout: default
+---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
